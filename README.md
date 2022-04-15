@@ -1,4 +1,4 @@
-![](https://img.shields.io/npm/v/epiroc.svg?style=flat)
+![](https://camo.githubusercontent.com/53a7f3cb98d43c970cece10bd058b38e1aed6ffb2e9dba51a4c5a1ce3249b0aa/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f72656163742d6e61746976652d70726f67726573732d73746570732e7376673f7374796c653d666c6174)
 ![](https://img.shields.io/npm/dt/epiroc.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
