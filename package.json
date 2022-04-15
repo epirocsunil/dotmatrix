@@ -1,0 +1,17 @@
+{
+  "name": "epiroc_dotmatrix",
+  "version": "0.0.25",
+  "description": "Dotmatrix library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@react-native-community/image-editor": "2.3.0",
+    "react-native-camera": "4.2.1",
+    "react-native-paper": "4.12.0",
+    "react-native-vertical-slider-component": "1.0.3"
+  }
+}
