@@ -1,0 +1,16 @@
+export const MainColors = {
+  yellow: '#ffc72c',
+  darkBlue: '#425563',
+  darkGray: 'gray',
+  lightGray: '#e0e0e0',
+  inputBgGray: '#f6f6f6',
+  errorRed: 'red',
+  successGreen: 'green',
+  infoBlue: '#168eff',
+  black: '#000000',
+  white: '#FFFFFF',
+  blackTransparent: '#0000004D',
+  darkBlueHighlight: '#4255631A',
+  transparentGreen: '#00ff0f4D',
+  transparentRed: '#ea16164D',
+};
